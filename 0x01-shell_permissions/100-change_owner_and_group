@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincent /alx-system_engineering-devops/0x01-shell_permissions |sudo chgrp staff /alx-system_engineering-devops/0x01-shell_permissions
+su chown vincent /alx-system_engineering-devops/0x01-shell_permissions |su chgrp staff /alx-system_engineering-devops/0x01-shell_permissions
