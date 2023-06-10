@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staff
+chown vincent /alx-system_engineering-devops/0x01-shell_permission | chgrp staff /alx-system_engineering-devops/0x01-shell_permissions
